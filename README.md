@@ -1,2 +1,2 @@
 # weatherapiapp
-Starting Weather App API Homepage
+Starting Weather API App Homepage
